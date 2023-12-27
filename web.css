@@ -49,7 +49,7 @@ nav .menu {
   color: #000;
 }
 .img {
-  background: url(kopi3.jpg) center no-repeat;
+  background: url(../simple-website/img/kopi3.jpg) center no-repeat;
   height: 100vh;
   width: 100%;
   background-size: cover;
